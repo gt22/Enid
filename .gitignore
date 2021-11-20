@@ -1,0 +1,7 @@
+gradle
+gradlew*
+build
+.idea
+.gradle
+config.json
+cs_content
